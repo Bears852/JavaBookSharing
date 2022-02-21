@@ -182,4 +182,5 @@
 | :-------------------: | :---------------------------------------: | :----: |
 |  MyBatis从入门到精通  | https://www.aliyundrive.com/s/zEiiQYv9Sxv |  aa60  |
 | MyBatis入门指南松哥版 | https://www.aliyundrive.com/s/WKguFNAZWb3 |  aa60  |
+|    MyBatis技术内幕    | https://www.aliyundrive.com/s/FJXBQuJixtM |  aa60  |
 
