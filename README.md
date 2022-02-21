@@ -3,11 +3,11 @@
 
 ## 书籍分类
 
-|                    |                       |                 |          |
-| :----------------: | :-------------------: | :-------------: | :------: |
-| [J面试题](#面试题) | [Java基础](#Java基础) | [MySQL](#MySQL) |  Spring  |
-|     Spring MVC     |      Spring Boot      |    数据结构     | 设计模式 |
-|    Spring Cloud    |         Redis         |                 |          |
+|                                                              |                                                              |                                                            |          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :------: |
+| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL) |  Spring  |
+|                          Spring MVC                          |                         Spring Boot                          |                          数据结构                          | 设计模式 |
+|                         Spring Cloud                         |                            Redis                             |                                                            |          |
 
 ## 面试题
 
@@ -23,7 +23,7 @@ Effective Java（中文版第3版），链接：https://www.aliyundrive.com/s/9J
 
 Java 8实战，链接：https://www.aliyundrive.com/s/QkVytfCwmdk，提取码：bf48
 
-## Java基础MySQL
+## MySQL
 
 MySQL必知必会，链接：https://www.aliyundrive.com/s/khJ8dQZQUPt，提取码：bf48
 
