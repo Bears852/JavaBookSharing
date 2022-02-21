@@ -136,14 +136,14 @@
 
 ## Redis
 
-|                   名称                    |                   链接                    | 提取码 |
-| :---------------------------------------: | :---------------------------------------: | :----: |
-|                 Redis实战                 | https://www.aliyundrive.com/s/Vz9BmYqZ6YJ |  36ju  |
-|               Redis入门指南               | https://www.aliyundrive.com/s/RdTDG42PUFS |  36ju  |
-|              Redis设计与实现              | https://www.aliyundrive.com/s/t6CmAJzXhXz |  36ju  |
-| Redis 深度历险：核心原理与应用实践-最新版 | https://www.aliyundrive.com/s/eMm9ZHB8vDF |  36ju  |
-|            Redis入门指南松哥版            | https://www.aliyundrive.com/s/XGWLqUvadvd |  aa60  |
-|              Redis源代码分析              | https://www.aliyundrive.com/s/NcRrnjuSzNx |  aa60  |
+|               名称                |                   链接                    | 提取码 |
+| :-------------------------------: | :---------------------------------------: | :----: |
+|             Redis实战             | https://www.aliyundrive.com/s/Vz9BmYqZ6YJ |  36ju  |
+|           Redis入门指南           | https://www.aliyundrive.com/s/RdTDG42PUFS |  36ju  |
+|          Redis设计与实现          | https://www.aliyundrive.com/s/t6CmAJzXhXz |  36ju  |
+| Redis深度历险：核心原理与应用实践 | https://www.aliyundrive.com/s/eMm9ZHB8vDF |  36ju  |
+|        Redis入门指南松哥版        | https://www.aliyundrive.com/s/XGWLqUvadvd |  aa60  |
+|          Redis源代码分析          | https://www.aliyundrive.com/s/NcRrnjuSzNx |  aa60  |
 
 ## Docker
 
