@@ -1,13 +1,12 @@
 ## 说明
 本仓库的书籍均来源于网络，如有侵权请邮箱联系`1203007469@qq.com`，立即删除
 
-## 书籍分类
+## 书籍分类导航
 
-|                                                              |                                                              |                                                            |                                                              |            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL) | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | Spring MVC |
-|                         Spring Boot                          |                         Spring Cloud                         |                          设计模式                          |                           数据结构                           |   Redis    |
-|                                                              |                                                              |                                                            |                                                              |            |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring MVC) |
+| [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) | [数据结构](https://github.com/a6678696/JavaBookSharing#数据结构) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  |
 
 ## 面试题
 
@@ -60,8 +59,13 @@
 
 |             名称              |                   链接                    | 提取码 |
 | :---------------------------: | :---------------------------------------: | :----: |
+|     Java编程思想（第4版）     | https://www.aliyundrive.com/s/DCebmV57TLP |  bf48  |
+|   Java核心技术（卷1）第8版    | https://www.aliyundrive.com/s/psQHx8k1CjL |  bf48  |
+|   Java核心技术（卷2）第8版    | https://www.aliyundrive.com/s/BRSX1oF1w5g |  bf48  |
 | Effective Java（中文版第3版） | https://www.aliyundrive.com/s/9JxLyXRMawq |  bf48  |
 |          Java 8实战           | https://www.aliyundrive.com/s/QkVytfCwmdk |  bf48  |
+|        Head First Java        | https://www.aliyundrive.com/s/xzYxYTEnuGz |  bf48  |
+|       疯狂Java讲义第4版       | https://www.aliyundrive.com/s/vQfNbpa1obF |  bf48  |
 
 ## MySQL
 
@@ -74,3 +78,11 @@
 ## Spring MVC
 
 ## Spring Boot
+
+## Spring Cloud
+
+## 设计模式
+
+## 数据结构
+
+## Redis
