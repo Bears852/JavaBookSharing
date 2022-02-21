@@ -73,7 +73,7 @@
 |   Java并发编程从入门到精通    | https://www.aliyundrive.com/s/BWg9CK6qq7p |  36ju  |
 |    Java从小白到大牛精简版     | https://www.aliyundrive.com/s/DG7uheSPugh |  36ju  |
 |     阿里巴巴Java开发手册      | https://www.aliyundrive.com/s/3JsMQzmGWyD |  36ju  |
-| 深入理解Java虚拟机（第二版）  | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
+|  深入理解Java虚拟机（第2版）  | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
 
 ## MySQL
 
@@ -87,11 +87,11 @@
 
 ## Spring
 
-|                        名称                         |                   链接                    | 提取码 |
-| :-------------------------------------------------: | :---------------------------------------: | :----: |
-|           Spring5核心原理与30个类手写实战           | https://www.aliyundrive.com/s/4N9MMe3GXZH |  36ju  |
-| Spring技术内幕：深入解析Spring架构与设计原理-第二版 | https://www.aliyundrive.com/s/Epw9Ffox3EQ |  36ju  |
-|                     Spring实战                      | https://www.aliyundrive.com/s/xYUF3Qi3GR6 |  36ju  |
+|                     名称                     |                   链接                    | 提取码 |
+| :------------------------------------------: | :---------------------------------------: | :----: |
+|       Spring5核心原理与30个类手写实战        | https://www.aliyundrive.com/s/4N9MMe3GXZH |  36ju  |
+| Spring技术内幕：深入解析Spring架构与设计原理 | https://www.aliyundrive.com/s/Epw9Ffox3EQ |  36ju  |
+|                  Spring实战                  | https://www.aliyundrive.com/s/xYUF3Qi3GR6 |  36ju  |
 
 ## Spring MVC
 
@@ -134,12 +134,12 @@
 
 ## 数据结构与算法
 
-|             名称             |                   链接                    | 提取码 |
-| :--------------------------: | :---------------------------------------: | :----: |
-|         大话数据结构         | https://www.aliyundrive.com/s/k2hUJq2SUbJ |  36ju  |
-| Java数据结构和算法（第二版） | https://www.aliyundrive.com/s/CuGUNoxNQC6 |  36ju  |
-|  Java常用算法手册（第3版）   | https://www.aliyundrive.com/s/RR9JN6uCtZj |  36ju  |
-|       LeetCode刷题手册       | https://www.aliyundrive.com/s/L1jVgBx37uX |  36ju  |
+|            名称             |                   链接                    | 提取码 |
+| :-------------------------: | :---------------------------------------: | :----: |
+|        大话数据结构         | https://www.aliyundrive.com/s/k2hUJq2SUbJ |  36ju  |
+| Java数据结构和算法（第2版） | https://www.aliyundrive.com/s/CuGUNoxNQC6 |  36ju  |
+|  Java常用算法手册（第3版）  | https://www.aliyundrive.com/s/RR9JN6uCtZj |  36ju  |
+|      LeetCode刷题手册       | https://www.aliyundrive.com/s/L1jVgBx37uX |  36ju  |
 
 ## Redis
 
@@ -162,19 +162,19 @@
 
 ## Linux
 
-|                名称                |                   链接                    | 提取码 |
-| :--------------------------------: | :---------------------------------------: | :----: |
-|         鸟哥的Linux私房菜          | https://www.aliyundrive.com/s/p3Gms4JMe8d |  36ju  |
-|         循序渐进Linux第2版         | https://www.aliyundrive.com/s/wQMWT9maG99 |  36ju  |
-|      Linux程序设计 中文第4版       | https://www.aliyundrive.com/s/TfDtEqNLj5i |  36ju  |
-|   Linux命令行与Shell脚本编程大全   | https://www.aliyundrive.com/s/x2e9NkuerJT |  36ju  |
-| Linux-UNIX系统编程手册（上、下册） | https://www.aliyundrive.com/s/dS1jHPU686J |  36ju  |
-|       Linux高性能服务器编程        | https://www.aliyundrive.com/s/U5san8TTH8o |  36ju  |
-|        UNIX 环境高级编程版         | https://www.aliyundrive.com/s/MNG5E2EeEbQ |  36ju  |
-|    深入理解Linux内核中文第三版     | https://www.aliyundrive.com/s/wzEjAniHbTZ |  36ju  |
-|         深入Linux内核架构          | https://www.aliyundrive.com/s/hWvS7oH1PNu |  36ju  |
-|      Linux内核源代码情景分析       | https://www.aliyundrive.com/s/2ve8CbxRW1c |  36ju  |
-|         Linux内核完全注释          | https://www.aliyundrive.com/s/hAfa9M6famB |  36ju  |
+|              名称              |                   链接                    | 提取码 |
+| :----------------------------: | :---------------------------------------: | :----: |
+|       鸟哥的Linux私房菜        | https://www.aliyundrive.com/s/p3Gms4JMe8d |  36ju  |
+|       循序渐进Linux第2版       | https://www.aliyundrive.com/s/wQMWT9maG99 |  36ju  |
+|    Linux程序设计 中文第4版     | https://www.aliyundrive.com/s/TfDtEqNLj5i |  36ju  |
+| Linux命令行与Shell脚本编程大全 | https://www.aliyundrive.com/s/x2e9NkuerJT |  36ju  |
+|     Linux-UNIX系统编程手册     | https://www.aliyundrive.com/s/dS1jHPU686J |  36ju  |
+|     Linux高性能服务器编程      | https://www.aliyundrive.com/s/U5san8TTH8o |  36ju  |
+|      UNIX 环境高级编程版       | https://www.aliyundrive.com/s/MNG5E2EeEbQ |  36ju  |
+|   深入理解Linux内核中文第3版   | https://www.aliyundrive.com/s/wzEjAniHbTZ |  36ju  |
+|       深入Linux内核架构        | https://www.aliyundrive.com/s/hWvS7oH1PNu |  36ju  |
+|    Linux内核源代码情景分析     | https://www.aliyundrive.com/s/2ve8CbxRW1c |  36ju  |
+|       Linux内核完全注释        | https://www.aliyundrive.com/s/hAfa9M6famB |  36ju  |
 
 ## MyBatis
 
