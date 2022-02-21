@@ -7,6 +7,7 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) |
 | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  | [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  |
+| [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 ## 面试题
 
@@ -103,16 +104,22 @@
 
 ## Spring Boot
 
-|          名称          |                   链接                    | 提取码 |
-| :--------------------: | :---------------------------------------: | :----: |
-| Spring Boot实战(第4版) | https://www.aliyundrive.com/s/taVHBnNZtYS |  36ju  |
-|  Spring Boot核心笔记   | https://www.aliyundrive.com/s/weTkcKJ8BRW |  aa60  |
+|                名称                |                   链接                    | 提取码 |
+| :--------------------------------: | :---------------------------------------: | :----: |
+|       Spring Boot实战(第4版)       | https://www.aliyundrive.com/s/taVHBnNZtYS |  36ju  |
+|        Spring Boot核心笔记         | https://www.aliyundrive.com/s/weTkcKJ8BRW |  aa60  |
+|      深入浅出Spring Boot 2.x       | https://www.aliyundrive.com/s/aT1D3rHvTTt |  aa60  |
+|        Spring Boot参考指南         | https://www.aliyundrive.com/s/KLT4WfBZXnG |  aa60  |
+| Spring Boot 2中文参考手册+中文文档 | https://www.aliyundrive.com/s/RXDaf1jEVH5 |  aa60  |
+|     Spring Boot 2企业应用实战      | https://www.aliyundrive.com/s/t4fsGcsm2sG |  aa60  |
 
 ## Spring Cloud
 
 |                名称                |                   链接                    | 提取码 |
 | :--------------------------------: | :---------------------------------------: | :----: |
 | Spring Cloud与Docker微服务架构实战 | https://www.aliyundrive.com/s/jXzwSNb2Zr2 |  36ju  |
+|       Spring Cloud微服务实战       | https://www.aliyundrive.com/s/MobJTWH87ez |  aa60  |
+|      重新定义Spring Cloud实战      | https://www.aliyundrive.com/s/VRuupm5tTJQ |  aa60  |
 
 ## 设计模式
 
@@ -168,4 +175,11 @@
 |         深入Linux内核架构          | https://www.aliyundrive.com/s/hWvS7oH1PNu |  36ju  |
 |      Linux内核源代码情景分析       | https://www.aliyundrive.com/s/2ve8CbxRW1c |  36ju  |
 |         Linux内核完全注释          | https://www.aliyundrive.com/s/hAfa9M6famB |  36ju  |
+
+## MyBatis
+
+|         名称          |                   链接                    | 提取码 |
+| :-------------------: | :---------------------------------------: | :----: |
+|  MyBatis从入门到精通  | https://www.aliyundrive.com/s/zEiiQYv9Sxv |  aa60  |
+| MyBatis入门指南松哥版 | https://www.aliyundrive.com/s/WKguFNAZWb3 |  aa60  |
 
