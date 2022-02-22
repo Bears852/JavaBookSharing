@@ -12,7 +12,7 @@
 | [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [Java并发编程](https://github.com/a6678696/JavaBookSharing#Java并发编程) | [Java虚拟机](https://github.com/a6678696/JavaBookSharing#Java虚拟机) |    [JSP](https://github.com/a6678696/JavaBookSharing#JSP)    | [Thymeleaf](https://github.com/a6678696/JavaBookSharing#Thymeleaf) |
 |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) |
 | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  | [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  | [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) | [代码规范](https://github.com/a6678696/JavaBookSharing#代码规范) |
-| [消息队列](https://github.com/a6678696/JavaBookSharing#消息队列) |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [消息队列](https://github.com/a6678696/JavaBookSharing#消息队列) |  [Nginx](https://github.com/a6678696/JavaBookSharing#Nginx)  |  [Maven](https://github.com/a6678696/JavaBookSharing#Maven)  | [Tomcat](https://github.com/a6678696/JavaBookSharing#Tomcat) |                                                              |                                                              |
 
 ## 面试题
 
@@ -251,4 +251,27 @@
 | RabbitMQ实战  高效部署分布式消息队列 | https://pan.baidu.com/s/1dlDI8F41VIGatDqxHBtJVg |  5i3t  |
 |         分布式消息中间件实践         | https://pan.baidu.com/s/1ePkTnhkqrhIc6Q-ud1HjIw |  vme4  |
 |     ZeroMQ 云时代极速消息通信库      | https://pan.baidu.com/s/1dq4hJThgPHmbTf6lB8SjQg |  5nad  |
+
+## Nginx
+
+|                    名称                    |                      链接                       | 提取码 |
+| :----------------------------------------: | :---------------------------------------------: | :----: |
+|             精通Nginx（第2版）             | https://pan.baidu.com/s/1vgABpyNIMvKJWfz_YsRESQ |  0kl9  |
+|   实战Nginx：取代Apache的高性能Web服务器   | https://pan.baidu.com/s/1nef7XeuxKD72B4bY0R9vWg |  e4bn  |
+|           Nginx教程从入门到精通            | https://pan.baidu.com/s/1RnRi2KBYtTrnjzqtZ-yx-Q |  cpek  |
+| 决战Nginx技术卷：高性能Web服务器部署与运维 | https://pan.baidu.com/s/1cDR0RuLsdproB40bmODTBA |  fxck  |
+
+## Maven
+
+|   名称    |                      链接                       | 提取码 |
+| :-------: | :---------------------------------------------: | :----: |
+| Maven实战 | https://pan.baidu.com/s/1_ZrT6XDTWfMe5C5oD3riXg |  sv85  |
+
+## Tomcat
+
+|                 名称                  |                      链接                       | 提取码 |
+| :-----------------------------------: | :---------------------------------------------: | :----: |
+|            深入剖析Tomcat             | https://pan.baidu.com/s/1nV8nzCEn75KygzCv8nOxXA |  ydga  |
+|          Tomcat内核设计剖析           | https://pan.baidu.com/s/1osTtyYjkjWbzRkJxahA-nQ |  61km  |
+| Tomcat与Java Web开发技术详解（第2版） | https://pan.baidu.com/s/18PATol-2nKSOKRPK-4kB1w |  tey2  |
 
