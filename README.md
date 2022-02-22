@@ -1,15 +1,15 @@
 ## 说明
-本仓库的书籍存放于阿里云盘，下载无限速，链接失效请到Issues下留言
+链接失效请到Issues下留言
 
-本仓库的书籍均收集于互联网，仅供读者学习交流使用，版权归原作者所有。如有侵权请邮箱联系`1203007469@qq.com`，立即删除
+本仓库的书籍均收集于互联网，仅供读者学习交流使用，版权归原作者所有。如有侵权请到Issues下留言，立即删除
 
 ## 分类导航
 
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) |
-| [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  | [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  |
-| [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [Java并发编程](https://github.com/a6678696/JavaBookSharing#Java并发编程) | [Java虚拟机](https://github.com/a6678696/JavaBookSharing#Java虚拟机) |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) |
+| [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  |
+| [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  | [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) | [代码规范](https://github.com/a6678696/JavaBookSharing#代码规范) |                                                              |                                                              |
 
 ## 面试题
 
@@ -70,12 +70,21 @@
 |          Java 8实战           | https://www.aliyundrive.com/s/QkVytfCwmdk |  bf48  |
 |        Head First Java        | https://www.aliyundrive.com/s/xzYxYTEnuGz |  bf48  |
 |       疯狂Java讲义第4版       | https://www.aliyundrive.com/s/vQfNbpa1obF |  bf48  |
-|      Java高并发编程详解       | https://www.aliyundrive.com/s/APbMdHakkvL |  36ju  |
-|       Java并发编程实战        | https://www.aliyundrive.com/s/KpAksjVLPrn |  36ju  |
-|   Java并发编程从入门到精通    | https://www.aliyundrive.com/s/BWg9CK6qq7p |  36ju  |
 |    Java从小白到大牛精简版     | https://www.aliyundrive.com/s/DG7uheSPugh |  36ju  |
-|     阿里巴巴Java开发手册      | https://www.aliyundrive.com/s/3JsMQzmGWyD |  36ju  |
-|  深入理解Java虚拟机（第2版）  | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
+
+## Java并发编程
+
+|           名称           |                   链接                    | 提取码 |
+| :----------------------: | :---------------------------------------: | :----: |
+|    Java高并发编程详解    | https://www.aliyundrive.com/s/APbMdHakkvL |  36ju  |
+|     Java并发编程实战     | https://www.aliyundrive.com/s/KpAksjVLPrn |  36ju  |
+| Java并发编程从入门到精通 | https://www.aliyundrive.com/s/BWg9CK6qq7p |  36ju  |
+
+## Java虚拟机
+
+|            名称             |                   链接                    | 提取码 |
+| :-------------------------: | :---------------------------------------: | :----: |
+| 深入理解Java虚拟机（第2版） | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
 
 ## MySQL
 
@@ -124,11 +133,12 @@
 
 ## Spring Cloud
 
-|                名称                |                   链接                    | 提取码 |
-| :--------------------------------: | :---------------------------------------: | :----: |
-| Spring Cloud与Docker微服务架构实战 | https://www.aliyundrive.com/s/jXzwSNb2Zr2 |  36ju  |
-|       Spring Cloud微服务实战       | https://www.aliyundrive.com/s/MobJTWH87ez |  aa60  |
-|      重新定义Spring Cloud实战      | https://www.aliyundrive.com/s/VRuupm5tTJQ |  aa60  |
+|                     名称                     |                      链接                       | 提取码 |
+| :------------------------------------------: | :---------------------------------------------: | :----: |
+|      Spring Cloud与Docker微服务架构实战      |    https://www.aliyundrive.com/s/jXzwSNb2Zr2    |  36ju  |
+|            Spring Cloud微服务实战            |    https://www.aliyundrive.com/s/MobJTWH87ez    |  aa60  |
+|           重新定义Spring Cloud实战           |    https://www.aliyundrive.com/s/VRuupm5tTJQ    |  aa60  |
+| Spring Cloud与Docker高并发微服务架构设计实施 | https://pan.baidu.com/s/1kBCF6DpQwRNKb5oZvlf-Gg |  ch2d  |
 
 ## 设计模式
 
@@ -164,11 +174,20 @@
 
 ## Docker
 
-|                名称                |                   链接                    | 提取码 |
-| :--------------------------------: | :---------------------------------------: | :----: |
-|        Docker入门指南松哥版        | https://www.aliyundrive.com/s/7doEPHRQUkm |  36ju  |
-| Spring Cloud与Docker微服务架构实战 | https://www.aliyundrive.com/s/jXzwSNb2Zr2 |  36ju  |
-|           第一本Docker书           | https://www.aliyundrive.com/s/2hHcJWY69bG |  36ju  |
+|                     名称                     |                      链接                       | 提取码 |
+| :------------------------------------------: | :---------------------------------------------: | :----: |
+|             Docker入门指南松哥版             |    https://www.aliyundrive.com/s/7doEPHRQUkm    |  36ju  |
+|      Spring Cloud与Docker微服务架构实战      |    https://www.aliyundrive.com/s/jXzwSNb2Zr2    |  36ju  |
+|                第一本Docker书                |    https://www.aliyundrive.com/s/2hHcJWY69bG    |  36ju  |
+|                深入浅出Docker                | https://pan.baidu.com/s/1Sr6kzOTTFAScdISjqn0i8g |  0z9o  |
+|             Docker微服务架构实战             | https://pan.baidu.com/s/1XBZySOCg6ORBXAQ7q3vXXw |  kksw  |
+|        没什么难的Docker入门与开发实战        | https://pan.baidu.com/s/1CXHLHFCb85s7I3vtuIY6Tw |  bqi3  |
+|             Docker技术入门与实战             | https://pan.baidu.com/s/1r7FRRDXJXD5y4qVSXRT-Gg |  vknm  |
+|         每天5分钟玩转Docker容器技术          | https://pan.baidu.com/s/1Y1YgZn58Lt8tVRIE09aJZQ |  i874  |
+|           自己动手写Docker.陈显鹭            | https://pan.baidu.com/s/1V5vXnRpOMGybAhNd3mF_Bw |  0hnp  |
+|                 Docker全攻略                 | https://pan.baidu.com/s/1_BmJrWIiowQJYih5Zd9XbQ |  1v97  |
+|             Docker容器技术与应用             | https://pan.baidu.com/s/1ZAckq_1so3eI7f_8KvFZEw |  k1cl  |
+| Spring Cloud与Docker高并发微服务架构设计实施 | https://pan.baidu.com/s/1kBCF6DpQwRNKb5oZvlf-Gg |  ch2d  |
 
 ## Linux
 
@@ -197,4 +216,13 @@
 |       Spring MVC+MyBatis快速开发与项目实战        | https://www.aliyundrive.com/s/fFyUDKkjtm5 |  3oy2  |
 |              互联网轻量级SSM框架解密              | https://www.aliyundrive.com/s/9KQ44vqPiVJ |  3oy2  |
 | Java EE互联网轻量级框架整合开发SSM框架和Redis实现 | https://www.aliyundrive.com/s/RY6Yg3WFYWT |  3oy2  |
+
+## 代码规范
+
+|           名称            |                      链接                       | 提取码 |
+| :-----------------------: | :---------------------------------------------: | :----: |
+|   阿里巴巴Java开发手册    |    https://www.aliyundrive.com/s/3JsMQzmGWyD    |  36ju  |
+|        Java-华山版        | https://pan.baidu.com/s/1b6Ot45p_S20nLD6lMP5VGQ |  3k3v  |
+| Java语言规范 基于Java SE8 | https://pan.baidu.com/s/1eO435OWcDmVxTZxcu7omYw |  z2ds  |
+|  Google Java编程规范指南  | https://pan.baidu.com/s/1R5fI_vNeZF7fR93jAq5Fqg |  4v96  |
 
