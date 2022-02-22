@@ -113,6 +113,7 @@
 |       MySQL技术内幕        | https://www.aliyundrive.com/s/LWpdeQJT7Ba |  36ju  |
 |     MySQL从入门到精通      | https://www.aliyundrive.com/s/xE4DHGTL17s |  36ju  |
 | MySQL 8 Cookbook（中文版） | https://www.aliyundrive.com/s/uZcQ3D3Bp7Z |  1ni0  |
+|   MySQL从入门到项目实践    | https://www.aliyundrive.com/s/nEP9QqiWXDe |  1ni0  |
 
 ## Spring
 
