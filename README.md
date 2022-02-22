@@ -12,7 +12,8 @@
 | [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [Java并发编程](https://github.com/a6678696/JavaBookSharing#Java并发编程) | [Java虚拟机](https://github.com/a6678696/JavaBookSharing#Java虚拟机) |    [JSP](https://github.com/a6678696/JavaBookSharing#JSP)    | [Thymeleaf](https://github.com/a6678696/JavaBookSharing#Thymeleaf) |
 |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) |
 | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  | [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  | [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) | [代码规范](https://github.com/a6678696/JavaBookSharing#代码规范) |
-| [消息队列](https://github.com/a6678696/JavaBookSharing#消息队列) |  [Nginx](https://github.com/a6678696/JavaBookSharing#Nginx)  |  [Maven](https://github.com/a6678696/JavaBookSharing#Maven)  | [Tomcat](https://github.com/a6678696/JavaBookSharing#Tomcat) |                                                              |                                                              |
+| [消息队列](https://github.com/a6678696/JavaBookSharing#消息队列) |  [Nginx](https://github.com/a6678696/JavaBookSharing#Nginx)  |  [Maven](https://github.com/a6678696/JavaBookSharing#Maven)  | [Tomcat](https://github.com/a6678696/JavaBookSharing#Tomcat) |    [Git](https://github.com/a6678696/JavaBookSharing#Git)    | [GitHub](https://github.com/a6678696/JavaBookSharing#GitHub) |
+|  [Mycat](https://github.com/a6678696/JavaBookSharing#Mycat)  |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 ## 面试题
 
@@ -104,13 +105,14 @@
 
 ## MySQL
 
-|       名称        |                   链接                    | 提取码 |
-| :---------------: | :---------------------------------------: | :----: |
-|   MySQL必知必会   | https://www.aliyundrive.com/s/khJ8dQZQUPt |  bf48  |
-|    高性能MySQL    | https://www.aliyundrive.com/s/7AHxwcp7cjq |  36ju  |
-|   深入浅出MySQL   | https://www.aliyundrive.com/s/aHPEh1zkc4U |  36ju  |
-|   MySQL技术内幕   | https://www.aliyundrive.com/s/LWpdeQJT7Ba |  36ju  |
-| MySQL从入门到精通 | https://www.aliyundrive.com/s/xE4DHGTL17s |  36ju  |
+|            名称            |                   链接                    | 提取码 |
+| :------------------------: | :---------------------------------------: | :----: |
+|       MySQL必知必会        | https://www.aliyundrive.com/s/khJ8dQZQUPt |  bf48  |
+|        高性能MySQL         | https://www.aliyundrive.com/s/7AHxwcp7cjq |  36ju  |
+|       深入浅出MySQL        | https://www.aliyundrive.com/s/aHPEh1zkc4U |  36ju  |
+|       MySQL技术内幕        | https://www.aliyundrive.com/s/LWpdeQJT7Ba |  36ju  |
+|     MySQL从入门到精通      | https://www.aliyundrive.com/s/xE4DHGTL17s |  36ju  |
+| MySQL 8 Cookbook（中文版） | https://www.aliyundrive.com/s/uZcQ3D3Bp7Z |  1ni0  |
 
 ## Spring
 
@@ -249,6 +251,11 @@
 | :----------------------------------: | :---------------------------------------------: | :----: |
 |             Java消息服务             | https://pan.baidu.com/s/1iM5T9TrbyY2b707SsWl0FA |  vt7v  |
 | RabbitMQ实战  高效部署分布式消息队列 | https://pan.baidu.com/s/1dlDI8F41VIGatDqxHBtJVg |  5i3t  |
+|             深入RabbitMQ             |    https://www.aliyundrive.com/s/Rnp1dfdqmCT    |  1ni0  |
+|           RabbitMQ实战指南           |    https://www.aliyundrive.com/s/2rb3vKFLNYU    |  1ni0  |
+|           RocketMQ技术内幕           |    https://www.aliyundrive.com/s/hezuUP4kc7R    |  1ni0  |
+|        RocketMQ实战与原理解析        |    https://www.aliyundrive.com/s/pPyvWRWoNyG    |  1ni0  |
+|           RocketMQ用户指南           |    https://www.aliyundrive.com/s/YqgziTWKTVq    |  1ni0  |
 |         分布式消息中间件实践         | https://pan.baidu.com/s/1ePkTnhkqrhIc6Q-ud1HjIw |  vme4  |
 |     ZeroMQ 云时代极速消息通信库      | https://pan.baidu.com/s/1dq4hJThgPHmbTf6lB8SjQg |  5nad  |
 
@@ -277,4 +284,22 @@
 
 ## Git
 
+|                名称                 |                   链接                    | 提取码 |
+| :---------------------------------: | :---------------------------------------: | :----: |
+|        Git权威指南（第2版）         | https://www.aliyundrive.com/s/CdxWT1E6oPT |  28zb  |
+| 完全学会Git GitHub Git Server24堂课 | https://www.aliyundrive.com/s/P7v8F2D2iwh |  1ni0  |
+|           Git版本控制管理           | https://www.aliyundrive.com/s/8cmLo3UyFxv |  1ni0  |
+
 ## GitHub
+
+|         名称          |                   链接                    | 提取码 |
+| :-------------------: | :---------------------------------------: | :----: |
+| 从0开始学习GitHub系列 | https://www.aliyundrive.com/s/nZRKFqPcdAV |  1ni0  |
+
+## Mycat
+
+|                    名称                    |                   链接                    | 提取码 |
+| :----------------------------------------: | :---------------------------------------: | :----: |
+|               Mycat权威指南                | https://www.aliyundrive.com/s/ndW8sBDCQdJ |  1ni0  |
+| 分布式数据库架构及企业实践-基于Mycat中间件 | https://www.aliyundrive.com/s/9VutTCuy7Dk |  1ni0  |
+
