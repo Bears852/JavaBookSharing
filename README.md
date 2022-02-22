@@ -1,7 +1,9 @@
 ## 说明
-本仓库的书籍均来源于网络，如有侵权请邮箱联系`1203007469@qq.com`，立即删除
+本仓库的书籍存放于阿里云盘，下载无限速，链接失效请到Issues下留言
 
-## 书籍分类导航
+本仓库的书籍均收集于互联网，仅供读者学习交流使用，版权归原作者所有。如有侵权请邮箱联系`1203007469@qq.com`，立即删除
+
+## 分类导航
 
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -87,20 +89,27 @@
 
 ## Spring
 
-|                     名称                     |                   链接                    | 提取码 |
-| :------------------------------------------: | :---------------------------------------: | :----: |
-|       Spring5核心原理与30个类手写实战        | https://www.aliyundrive.com/s/4N9MMe3GXZH |  36ju  |
-| Spring技术内幕：深入解析Spring架构与设计原理 | https://www.aliyundrive.com/s/Epw9Ffox3EQ |  36ju  |
-|                  Spring实战                  | https://www.aliyundrive.com/s/xYUF3Qi3GR6 |  36ju  |
+|                       名称                        |                   链接                    | 提取码 |
+| :-----------------------------------------------: | :---------------------------------------: | :----: |
+|          Spring5核心原理与30个类手写实战          | https://www.aliyundrive.com/s/4N9MMe3GXZH |  36ju  |
+|   Spring技术内幕：深入解析Spring架构与设计原理    | https://www.aliyundrive.com/s/Epw9Ffox3EQ |  36ju  |
+|                    Spring实战                     | https://www.aliyundrive.com/s/xYUF3Qi3GR6 |  36ju  |
+|              互联网轻量级SSM框架解密              | https://www.aliyundrive.com/s/9KQ44vqPiVJ |  3oy2  |
+| Java EE互联网轻量级框架整合开发SSM框架和Redis实现 | https://www.aliyundrive.com/s/RY6Yg3WFYWT |  3oy2  |
 
 ## Spring MVC
 
-|           名称           |                   链接                    | 提取码 |
-| :----------------------: | :---------------------------------------: | :----: |
-|     精通Spring MVC4      | https://www.aliyundrive.com/s/Uxbqgv5nH6D |  36ju  |
-|  Spring MVC开发手册文档  | https://www.aliyundrive.com/s/mSqZ6kB4sGD |  36ju  |
-|      Spring MVC教学      | https://www.aliyundrive.com/s/zwRCTLNkTRA |  36ju  |
-| Spring MVC入门指南松哥版 | https://www.aliyundrive.com/s/YQ5BaYKEeuT |  36ju  |
+|                       名称                        |                   链接                    | 提取码 |
+| :-----------------------------------------------: | :---------------------------------------: | :----: |
+|                  精通Spring MVC4                  | https://www.aliyundrive.com/s/Uxbqgv5nH6D |  36ju  |
+|              Spring MVC开发手册文档               | https://www.aliyundrive.com/s/mSqZ6kB4sGD |  36ju  |
+|                  Spring MVC教学                   | https://www.aliyundrive.com/s/zwRCTLNkTRA |  36ju  |
+|             Spring MVC入门指南松哥版              | https://www.aliyundrive.com/s/YQ5BaYKEeuT |  36ju  |
+|          看透Spring MVC源代码分析与实践           | https://www.aliyundrive.com/s/YSeMfYnXuAU |  3oy2  |
+|      Spring MVC+MyBatis开发从入门到项目实战       | https://www.aliyundrive.com/s/3jGr2PBTh5g |  3oy2  |
+|       Spring MVC+MyBatis快速开发与项目实战        | https://www.aliyundrive.com/s/fFyUDKkjtm5 |  3oy2  |
+|              互联网轻量级SSM框架解密              | https://www.aliyundrive.com/s/9KQ44vqPiVJ |  3oy2  |
+| Java EE互联网轻量级框架整合开发SSM框架和Redis实现 | https://www.aliyundrive.com/s/RY6Yg3WFYWT |  3oy2  |
 
 ## Spring Boot
 
@@ -143,14 +152,15 @@
 
 ## Redis
 
-|               名称                |                   链接                    | 提取码 |
-| :-------------------------------: | :---------------------------------------: | :----: |
-|             Redis实战             | https://www.aliyundrive.com/s/Vz9BmYqZ6YJ |  36ju  |
-|           Redis入门指南           | https://www.aliyundrive.com/s/RdTDG42PUFS |  36ju  |
-|          Redis设计与实现          | https://www.aliyundrive.com/s/t6CmAJzXhXz |  36ju  |
-| Redis深度历险：核心原理与应用实践 | https://www.aliyundrive.com/s/eMm9ZHB8vDF |  36ju  |
-|        Redis入门指南松哥版        | https://www.aliyundrive.com/s/XGWLqUvadvd |  aa60  |
-|          Redis源代码分析          | https://www.aliyundrive.com/s/NcRrnjuSzNx |  aa60  |
+|                       名称                        |                   链接                    | 提取码 |
+| :-----------------------------------------------: | :---------------------------------------: | :----: |
+|                     Redis实战                     | https://www.aliyundrive.com/s/Vz9BmYqZ6YJ |  36ju  |
+|                   Redis入门指南                   | https://www.aliyundrive.com/s/RdTDG42PUFS |  36ju  |
+|                  Redis设计与实现                  | https://www.aliyundrive.com/s/t6CmAJzXhXz |  36ju  |
+|         Redis深度历险：核心原理与应用实践         | https://www.aliyundrive.com/s/eMm9ZHB8vDF |  36ju  |
+|                Redis入门指南松哥版                | https://www.aliyundrive.com/s/XGWLqUvadvd |  aa60  |
+|                  Redis源代码分析                  | https://www.aliyundrive.com/s/NcRrnjuSzNx |  aa60  |
+| Java EE互联网轻量级框架整合开发SSM框架和Redis实现 | https://www.aliyundrive.com/s/RY6Yg3WFYWT |  3oy2  |
 
 ## Docker
 
@@ -178,9 +188,13 @@
 
 ## MyBatis
 
-|         名称          |                   链接                    | 提取码 |
-| :-------------------: | :---------------------------------------: | :----: |
-|  MyBatis从入门到精通  | https://www.aliyundrive.com/s/zEiiQYv9Sxv |  aa60  |
-| MyBatis入门指南松哥版 | https://www.aliyundrive.com/s/WKguFNAZWb3 |  aa60  |
-|    MyBatis技术内幕    | https://www.aliyundrive.com/s/FJXBQuJixtM |  aa60  |
+|                       名称                        |                   链接                    | 提取码 |
+| :-----------------------------------------------: | :---------------------------------------: | :----: |
+|                MyBatis从入门到精通                | https://www.aliyundrive.com/s/zEiiQYv9Sxv |  aa60  |
+|               MyBatis入门指南松哥版               | https://www.aliyundrive.com/s/WKguFNAZWb3 |  aa60  |
+|                  MyBatis技术内幕                  | https://www.aliyundrive.com/s/FJXBQuJixtM |  aa60  |
+|      Spring MVC+MyBatis开发从入门到项目实战       | https://www.aliyundrive.com/s/3jGr2PBTh5g |  3oy2  |
+|       Spring MVC+MyBatis快速开发与项目实战        | https://www.aliyundrive.com/s/fFyUDKkjtm5 |  3oy2  |
+|              互联网轻量级SSM框架解密              | https://www.aliyundrive.com/s/9KQ44vqPiVJ |  3oy2  |
+| Java EE互联网轻量级框架整合开发SSM框架和Redis实现 | https://www.aliyundrive.com/s/RY6Yg3WFYWT |  3oy2  |
 
