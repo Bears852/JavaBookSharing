@@ -1,15 +1,18 @@
 ## 说明
 链接失效请到Issues下留言
 
-本仓库的书籍均收集于互联网，仅供读者学习交流使用，版权归原作者所有。如有侵权请到Issues下留言，立即删除
+本仓库的书籍均收集于互联网，仅供读者学习交流使用，版权归原作者所有
+
+如有侵权请到Issues下留言，立即删除
 
 ## 分类导航
 
 |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [Java并发编程](https://github.com/a6678696/JavaBookSharing#Java并发编程) | [Java虚拟机](https://github.com/a6678696/JavaBookSharing#Java虚拟机) |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) |
-| [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  |
-| [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  | [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) | [代码规范](https://github.com/a6678696/JavaBookSharing#代码规范) |                                                              |                                                              |
+| [面试题](https://github.com/a6678696/JavaBookSharing#面试题) | [Java基础](https://github.com/a6678696/JavaBookSharing#Java基础) | [Java并发编程](https://github.com/a6678696/JavaBookSharing#Java并发编程) | [Java虚拟机](https://github.com/a6678696/JavaBookSharing#Java虚拟机) |    [JSP](https://github.com/a6678696/JavaBookSharing#JSP)    | [Thymeleaf](https://github.com/a6678696/JavaBookSharing#Thymeleaf) |
+|  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) |
+| [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  | [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  | [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) | [代码规范](https://github.com/a6678696/JavaBookSharing#代码规范) |
+| [消息队列](https://github.com/a6678696/JavaBookSharing#消息队列) |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 ## 面试题
 
@@ -86,6 +89,19 @@
 | :-------------------------: | :---------------------------------------: | :----: |
 | 深入理解Java虚拟机（第2版） | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
 
+## JSP
+
+|                     名称                     |                      链接                       | 提取码 |
+| :------------------------------------------: | :---------------------------------------------: | :----: |
+| Head First Servlets and JSP  中文版（第2版） | https://pan.baidu.com/s/1WfDSo6ogTOXNi1c6ALukVQ |  fccu  |
+|               Java Web开发详解               | https://pan.baidu.com/s/1z7d44Wn-_qI-OOOvXJmE2g |  5eu0  |
+
+## Thymeleaf
+
+|                名称                 |                      链接                       | 提取码 |
+| :---------------------------------: | :---------------------------------------------: | :----: |
+| Spring Boot 2+Thymeleaf企业应用实战 | https://pan.baidu.com/s/1FTHKRtnMuKOBxdPsMfqviQ |  pxxq  |
+
 ## MySQL
 
 |       名称        |                   链接                    | 提取码 |
@@ -122,14 +138,15 @@
 
 ## Spring Boot
 
-|                名称                |                   链接                    | 提取码 |
-| :--------------------------------: | :---------------------------------------: | :----: |
-|       Spring Boot实战(第4版)       | https://www.aliyundrive.com/s/taVHBnNZtYS |  36ju  |
-|        Spring Boot核心笔记         | https://www.aliyundrive.com/s/weTkcKJ8BRW |  aa60  |
-|      深入浅出Spring Boot 2.x       | https://www.aliyundrive.com/s/aT1D3rHvTTt |  aa60  |
-|        Spring Boot参考指南         | https://www.aliyundrive.com/s/KLT4WfBZXnG |  aa60  |
-| Spring Boot 2中文参考手册+中文文档 | https://www.aliyundrive.com/s/RXDaf1jEVH5 |  aa60  |
-|     Spring Boot 2企业应用实战      | https://www.aliyundrive.com/s/t4fsGcsm2sG |  aa60  |
+|                名称                 |                      链接                       | 提取码 |
+| :---------------------------------: | :---------------------------------------------: | :----: |
+|       Spring Boot实战(第4版)        |    https://www.aliyundrive.com/s/taVHBnNZtYS    |  36ju  |
+|         Spring Boot核心笔记         |    https://www.aliyundrive.com/s/weTkcKJ8BRW    |  aa60  |
+|       深入浅出Spring Boot 2.x       |    https://www.aliyundrive.com/s/aT1D3rHvTTt    |  aa60  |
+|         Spring Boot参考指南         |    https://www.aliyundrive.com/s/KLT4WfBZXnG    |  aa60  |
+| Spring Boot 2中文参考手册+中文文档  |    https://www.aliyundrive.com/s/RXDaf1jEVH5    |  aa60  |
+|      Spring Boot 2企业应用实战      |    https://www.aliyundrive.com/s/t4fsGcsm2sG    |  aa60  |
+| Spring Boot 2+Thymeleaf企业应用实战 | https://pan.baidu.com/s/1FTHKRtnMuKOBxdPsMfqviQ |  pxxq  |
 
 ## Spring Cloud
 
@@ -225,4 +242,13 @@
 |        Java-华山版        | https://pan.baidu.com/s/1b6Ot45p_S20nLD6lMP5VGQ |  3k3v  |
 | Java语言规范 基于Java SE8 | https://pan.baidu.com/s/1eO435OWcDmVxTZxcu7omYw |  z2ds  |
 |  Google Java编程规范指南  | https://pan.baidu.com/s/1R5fI_vNeZF7fR93jAq5Fqg |  4v96  |
+
+## 消息队列
+
+|                 名称                 |                      链接                       | 提取码 |
+| :----------------------------------: | :---------------------------------------------: | :----: |
+|             Java消息服务             | https://pan.baidu.com/s/1iM5T9TrbyY2b707SsWl0FA |  vt7v  |
+| RabbitMQ实战  高效部署分布式消息队列 | https://pan.baidu.com/s/1dlDI8F41VIGatDqxHBtJVg |  5i3t  |
+|         分布式消息中间件实践         | https://pan.baidu.com/s/1ePkTnhkqrhIc6Q-ud1HjIw |  vme4  |
+|     ZeroMQ 云时代极速消息通信库      | https://pan.baidu.com/s/1dq4hJThgPHmbTf6lB8SjQg |  5nad  |
 
