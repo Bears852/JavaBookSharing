@@ -86,9 +86,12 @@
 
 ## Java虚拟机
 
-|            名称             |                   链接                    | 提取码 |
-| :-------------------------: | :---------------------------------------: | :----: |
-| 深入理解Java虚拟机（第2版） | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
+|                 名称                  |                   链接                    | 提取码 |
+| :-----------------------------------: | :---------------------------------------: | :----: |
+|      深入理解Java虚拟机（第2版）      | https://www.aliyundrive.com/s/vWebJeMZtVG |  36ju  |
+|   揭秘Java虚拟机：JVM设计原理与实现   | https://www.aliyundrive.com/s/GYgvqWPuQ84 |  1ni0  |
+|         深入理解JVM ＆ G1 GC          | https://www.aliyundrive.com/s/voWyomFYbch |  1ni0  |
+| 实战JAVA虚拟机：JVM故障诊断与性能优化 | https://www.aliyundrive.com/s/4CGNbBXHawK |  1ni0  |
 
 ## JSP
 
@@ -250,15 +253,15 @@
 
 |                 名称                 |                      链接                       | 提取码 |
 | :----------------------------------: | :---------------------------------------------: | :----: |
-|             Java消息服务             | https://pan.baidu.com/s/1iM5T9TrbyY2b707SsWl0FA |  vt7v  |
-| RabbitMQ实战  高效部署分布式消息队列 | https://pan.baidu.com/s/1dlDI8F41VIGatDqxHBtJVg |  5i3t  |
 |             深入RabbitMQ             |    https://www.aliyundrive.com/s/Rnp1dfdqmCT    |  1ni0  |
 |           RabbitMQ实战指南           |    https://www.aliyundrive.com/s/2rb3vKFLNYU    |  1ni0  |
+| RabbitMQ实战  高效部署分布式消息队列 | https://pan.baidu.com/s/1dlDI8F41VIGatDqxHBtJVg |  5i3t  |
 |           RocketMQ技术内幕           |    https://www.aliyundrive.com/s/hezuUP4kc7R    |  1ni0  |
-|        RocketMQ实战与原理解析        |    https://www.aliyundrive.com/s/pPyvWRWoNyG    |  1ni0  |
 |           RocketMQ用户指南           |    https://www.aliyundrive.com/s/YqgziTWKTVq    |  1ni0  |
+|        RocketMQ实战与原理解析        |    https://www.aliyundrive.com/s/pPyvWRWoNyG    |  1ni0  |
+|             Java消息服务             | https://pan.baidu.com/s/1iM5T9TrbyY2b707SsWl0FA |  vt7v  |
 |         分布式消息中间件实践         | https://pan.baidu.com/s/1ePkTnhkqrhIc6Q-ud1HjIw |  vme4  |
-|     ZeroMQ 云时代极速消息通信库      | https://pan.baidu.com/s/1dq4hJThgPHmbTf6lB8SjQg |  5nad  |
+|      ZeroMQ云时代极速消息通信库      | https://pan.baidu.com/s/1dq4hJThgPHmbTf6lB8SjQg |  5nad  |
 
 ## Nginx
 
