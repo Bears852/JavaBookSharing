@@ -19,6 +19,7 @@
 
 |               名称                |                   链接                    | 提取码 |
 | :-------------------------------: | :---------------------------------------: | :----: |
+|         Java基础核心总结          | https://www.aliyundrive.com/s/6czs9qrJriN |  iy10  |
 |      JavaGuide面试突击最新版      | https://www.aliyundrive.com/s/savoryekxxH |  aa60  |
 |        Java核心知识点整理         | https://www.aliyundrive.com/s/QYa4x2eBhEB |  bf48  |
 |           Java面试宝典            | https://www.aliyundrive.com/s/Vj5P9DwrFYu |  bf48  |
@@ -75,6 +76,7 @@
 |        Head First Java        | https://www.aliyundrive.com/s/xzYxYTEnuGz |  bf48  |
 |       疯狂Java讲义第4版       | https://www.aliyundrive.com/s/vQfNbpa1obF |  bf48  |
 |    Java从小白到大牛精简版     | https://www.aliyundrive.com/s/DG7uheSPugh |  36ju  |
+|       Java经典编程300例       | https://www.aliyundrive.com/s/TvuydveZ9SF |  1ju0  |
 
 ## Java并发编程
 
