@@ -155,6 +155,7 @@
 | Spring Boot 2中文参考手册+中文文档  |    https://www.aliyundrive.com/s/RXDaf1jEVH5    |  aa60  |
 |      Spring Boot 2企业应用实战      |    https://www.aliyundrive.com/s/t4fsGcsm2sG    |  aa60  |
 | Spring Boot 2+Thymeleaf企业应用实战 | https://pan.baidu.com/s/1FTHKRtnMuKOBxdPsMfqviQ |  pxxq  |
+|     Spring Boot学习笔记完整教程     |    https://www.aliyundrive.com/s/fJ8UHNv6usd    |  10vy  |
 
 ## Spring Cloud
 
