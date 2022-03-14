@@ -13,7 +13,7 @@
 |  [MySQL](https://github.com/a6678696/JavaBookSharing#MySQL)  | [Spring](https://github.com/a6678696/JavaBookSharing#Spring) | [Spring MVC](https://github.com/a6678696/JavaBookSharing#Spring-MVC) | [Spring Boot](https://github.com/a6678696/JavaBookSharing#Spring-Boot) | [Spring Cloud](https://github.com/a6678696/JavaBookSharing#Spring-Cloud) | [设计模式](https://github.com/a6678696/JavaBookSharing#设计模式) |
 | [数据结构与算法](https://github.com/a6678696/JavaBookSharing#数据结构与算法) |  [Redis](https://github.com/a6678696/JavaBookSharing#Redis)  | [Docker](https://github.com/a6678696/JavaBookSharing#Docker) |  [Linux](https://github.com/a6678696/JavaBookSharing#Linux)  | [MyBatis](https://github.com/a6678696/JavaBookSharing#MyBatis) | [代码规范](https://github.com/a6678696/JavaBookSharing#代码规范) |
 | [消息队列](https://github.com/a6678696/JavaBookSharing#消息队列) |  [Nginx](https://github.com/a6678696/JavaBookSharing#Nginx)  |  [Maven](https://github.com/a6678696/JavaBookSharing#Maven)  | [Tomcat](https://github.com/a6678696/JavaBookSharing#Tomcat) |    [Git](https://github.com/a6678696/JavaBookSharing#Git)    | [GitHub](https://github.com/a6678696/JavaBookSharing#GitHub) |
-|  [Mycat](https://github.com/a6678696/JavaBookSharing#Mycat)  |                                                              |                                                              |                                                              |                                                              |                                                              |
+|  [Mycat](https://github.com/a6678696/JavaBookSharing#Mycat)  | [安全框架](https://github.com/a6678696/JavaBookSharing#安全框架) |                                                              |                                                              |                                                              |                                                              |
 
 ## 面试题
 
@@ -309,3 +309,12 @@
 | :----------------------------------------: | :---------------------------------------: | :----: |
 |               Mycat权威指南                | https://www.aliyundrive.com/s/ndW8sBDCQdJ |  1ni0  |
 | 分布式数据库架构及企业实践-基于Mycat中间件 | https://www.aliyundrive.com/s/9VutTCuy7Dk |  1ni0  |
+
+## 安全框架
+
+|                             名称                             |                   链接                    | 提取码 |
+| :----------------------------------------------------------: | :---------------------------------------: | :----: |
+|                 Spring Security 5.1 参考手册                 | https://www.aliyundrive.com/s/CJB75vcUZEz |  24lt  |
+|                         跟我学Shiro                          | https://www.aliyundrive.com/s/MNjFCUdV3Bn |  24lt  |
+| Java Web高级编程  涵盖WebSockets、Spring Framework、JPA Hibernate和Spring Security | https://www.aliyundrive.com/s/HmEvDq4NgY4 |  24lt  |
+
