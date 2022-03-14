@@ -156,6 +156,7 @@
 |      Spring Boot 2企业应用实战      |    https://www.aliyundrive.com/s/t4fsGcsm2sG    |  aa60  |
 | Spring Boot 2+Thymeleaf企业应用实战 | https://pan.baidu.com/s/1FTHKRtnMuKOBxdPsMfqviQ |  pxxq  |
 |     Spring Boot学习笔记完整教程     |    https://www.aliyundrive.com/s/fJ8UHNv6usd    |  10vy  |
+|     Spring Boot+Vue全栈开发实战     |    https://www.aliyundrive.com/s/zgF2rDMH6n5    |  24lt  |
 
 ## Spring Cloud
 
